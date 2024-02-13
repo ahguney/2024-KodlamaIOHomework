@@ -1,6 +1,6 @@
 # 2024-KodlamaIOHomework
 
-Entity Layer = veri tabanı nesneleri tuttuğumuz katmandır.
+Entity Layer = veri tabanı nesnelerini tuttuğumuz katmandır.
 
 DataAccess Layer = veri tabanı veya başka bir veri kaynağına erişim yöntemlerinin yazıldığı katmandır.
 
